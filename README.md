@@ -4,9 +4,9 @@ I Made Some Blender Addons, Hopefully You Will Find them Useful
 
 ## Major Addons
 - [Frame Ranger](https://github.com/BlenderBoi/Frame_Ranger)
-- [Vertex Group Utils](https://github.com/BlenderBoi/Vertex_Group_Utils)
-- [Human Primitive](https://github.com/BlenderBoi/Human_Primitive)
 - [Bonera](https://github.com/BlenderBoi/Bonera)
+- [Human Primitive](https://github.com/BlenderBoi/Human_Primitive)
+- [Vertex Group Utils](https://github.com/BlenderBoi/Vertex_Group_Utils)
 - [Pseudo Object Layer](https://github.com/BlenderBoi/Pseudo_Object_Layer)
 - [Radiant](https://github.com/BlenderBoi/Radiant)
 - [Viewfinder](https://github.com/BlenderBoi/Viewfinder)
