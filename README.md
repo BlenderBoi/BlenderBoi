@@ -13,12 +13,13 @@ I Made Some Blender Addons, Hopefully You Will Find them Useful
 
 ## Minor Addons
 
+- [Command On Selected](https://github.com/BlenderBoi/Command_On_Selected)
 - [Smooth Preview](https://github.com/BlenderBoi/Smooth_Preview)
 - [Favorite Collections](https://github.com/BlenderBoi/Favorite_Collections)
 - [Batch Recursive Import](https://github.com/BlenderBoi/Batch_Recursive_Import)
 - [Tool Pie Menu](https://github.com/BlenderBoi/Tool_Pie_Menu)
 - [Sculpt Smooth Brush Slider](https://github.com/BlenderBoi/Sculpt_Smooth_Brush_Slider)
-- [Command On Selected](https://github.com/BlenderBoi/Command_On_Selected)
+
 
 ## Mini Addons
 
