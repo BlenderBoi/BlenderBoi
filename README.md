@@ -12,7 +12,7 @@ I Made Some Blender Addons, Hopefully You Will Find them Useful
 - https://github.com/BlenderBoi/Smooth_Preview
 - https://github.com/BlenderBoi/Favorite_Collections
 - https://github.com/BlenderBoi/Batch_Recursive_Import
-- https://github.com/BlenderBoi/Batch_Rename_Vertex_Group
+- https://github.com/BlenderBoi/Batch_Rename_Vertex_Groups
 - https://github.com/BlenderBoi/Group_Selected_Objects_To_Collection_By_Types
 - https://github.com/BlenderBoi/Convert_Selected_Mesh_To_Bounding_Mesh
 - https://github.com/BlenderBoi/Tool_Pie_Menu
