@@ -10,6 +10,7 @@ I Made Some Blender Addons, Hopefully You Will Find them Useful
 - [Pseudo Object Layer](https://github.com/BlenderBoi/Pseudo_Object_Layer)
 - [Radiant](https://github.com/BlenderBoi/Radiant)
 - [Viewfinder](https://github.com/BlenderBoi/Viewfinder)
+- [Game Rig Tools](https://github.com/BlenderBoi/Game_Rig_Tools)
 
 ## Minor Addons
 
