@@ -11,7 +11,7 @@ I Made Some Blender Addons, Hopefully You Will Find them Useful
 | ![Vertex Group Utils Thumbnail](https://camo.githubusercontent.com/e4a1e9ebb5f463bc65aa9b5b08c52cfc934d2642083b3827ddd2300add3862be/68747470733a2f2f426c656e646572626f692e636f6d2f67616c6c6572792f56657274657847726f75705574696c732f42616e6e65722e706e67)| [Blendermarket](https://blendermarket.com/products/vertex-group-utils) | [Vertex Group Utils](https://github.com/BlenderBoi/Vertex_Group_Utils)|
 | ![Pseudo Object Layer Thumbnail](https://user-images.githubusercontent.com/79613445/210192737-4f6f0619-55d5-49dd-81ff-79a3a8529f4a.png) | [Blendermarket](https://blendermarket.com/products/pseudo-object-layer) | [Pseudo Object Layer](https://github.com/BlenderBoi/Pseudo_Object_Layer) | |
 |![Blendermarket](https://user-images.githubusercontent.com/79613445/210191579-2c2f9967-d397-4ef7-8330-bbb17eed17ea.png)| [Blendermarket](https://blendermarket.com/products/radiant)|[Radiant](https://github.com/BlenderBoi/Radiant)| |
-- [Viewfinder](https://github.com/BlenderBoi/Viewfinder)
+|![Viewfinder](https://user-images.githubusercontent.com/79613445/210192287-dd02b6c8-7154-47a6-af05-65383c3178ef.png)|[Blendermarket](https://blendermarket.com/products/viewfinder)|[Viewfinder](https://github.com/BlenderBoi/Viewfinder)||
 
 
 ## Minor Addons
