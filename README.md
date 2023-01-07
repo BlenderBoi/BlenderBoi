@@ -6,7 +6,7 @@ I Made Some Blender Addons, Hopefully You Will Find them Useful
 | Thumbnail | Product Page | Source Code | Documentation | 
 | -- | -- | -- | -- |
 | ![Frame Ranger Thumbnail](https://user-images.githubusercontent.com/79613445/210191095-3b92a11b-3381-43d1-9fd5-18fdff878874.png) | [Blendermarket](https://blendermarket.com/products/frame-ranger) |[Frame Ranger](https://github.com/BlenderBoi/Frame_Ranger)  | [Documentation](https://frame-ranger.readthedocs.io/en/latest/index.html#) |
-| [Blendermarket](https://blendermarket.com/products/bonera) | [Bonera](https://github.com/BlenderBoi/Bonera)| [Documentation](https://boneradocumentation.readthedocs.io/en/latest/index.html) |
+|![Bonera Thumbnail](https://user-images.githubusercontent.com/79613445/210190149-550c8269-55b4-4ecc-9057-e864ae49279e.png) | [Blendermarket](https://blendermarket.com/products/bonera) | [Bonera](https://github.com/BlenderBoi/Bonera)| [Documentation](https://boneradocumentation.readthedocs.io/en/latest/index.html) |
 - [Human Primitive](https://github.com/BlenderBoi/Human_Primitive)
 - [Vertex Group Utils](https://github.com/BlenderBoi/Vertex_Group_Utils)
 - [Pseudo Object Layer](https://github.com/BlenderBoi/Pseudo_Object_Layer)
