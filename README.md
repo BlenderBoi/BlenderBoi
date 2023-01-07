@@ -29,7 +29,11 @@ I Made Some Blender Addons, Hopefully You Will Find them Useful
 - [Convert Selected Mesh To Bounding Mesh](https://github.com/BlenderBoi/Convert_Selected_Mesh_To_Bounding_Mesh)
 
 ## CG Dive
+
 - [Game Rig Tools](https://github.com/BlenderBoi/Game_Rig_Tools)
+- [Game Rig Tool Unreal Module](https://github.com/BlenderBoi/Game_Rig_Tools_Unreal)
+- [Retarget Helper](https://github.com/BlenderBoi/Retarget_Helper)
+
 
 ## Theme
 - [Blender Gruvbox Theme](https://github.com/BlenderBoi/Blender_Gruvbox_Theme)
