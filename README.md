@@ -8,7 +8,7 @@ I Made Some Blender Addons, Hopefully You Will Find them Useful
 | ![Frame Ranger Thumbnail](https://user-images.githubusercontent.com/79613445/210191095-3b92a11b-3381-43d1-9fd5-18fdff878874.png) | [Blendermarket](https://blendermarket.com/products/frame-ranger) |[Frame Ranger](https://github.com/BlenderBoi/Frame_Ranger)  | [Documentation](https://frame-ranger.readthedocs.io/en/latest/index.html#) |
 |![Bonera Thumbnail](https://user-images.githubusercontent.com/79613445/210190149-550c8269-55b4-4ecc-9057-e864ae49279e.png) | [Blendermarket](https://blendermarket.com/products/bonera) | [Bonera](https://github.com/BlenderBoi/Bonera)| [Documentation](https://boneradocumentation.readthedocs.io/en/latest/index.html) |
 | ![Human Primitive Thumbnail](https://user-images.githubusercontent.com/79613445/210203955-04b65fa0-ab99-47f3-a459-de80b6cf0a1a.png) | [Blendermarket](https://github.com/BlenderBoi/Human_Primitive) |[Human Primitive](https://github.com/BlenderBoi/Human_Primitive)| |
-- [Vertex Group Utils](https://github.com/BlenderBoi/Vertex_Group_Utils)
+| ![Vertex Group Utils Thumbnail](https://camo.githubusercontent.com/e4a1e9ebb5f463bc65aa9b5b08c52cfc934d2642083b3827ddd2300add3862be/68747470733a2f2f426c656e646572626f692e636f6d2f67616c6c6572792f56657274657847726f75705574696c732f42616e6e65722e706e67)| [Blendermarket](https://blendermarket.com/products/vertex-group-utils) | [Vertex Group Utils](https://github.com/BlenderBoi/Vertex_Group_Utils)|
 - [Pseudo Object Layer](https://github.com/BlenderBoi/Pseudo_Object_Layer)
 - [Radiant](https://github.com/BlenderBoi/Radiant)
 - [Viewfinder](https://github.com/BlenderBoi/Viewfinder)
