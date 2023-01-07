@@ -5,7 +5,6 @@ I Made Some Blender Addons, Hopefully You Will Find them Useful
 ## Major Addons
 - [Frame Ranger](https://github.com/BlenderBoi/Frame_Ranger)
 - [Bonera](https://github.com/BlenderBoi/Bonera)
-- [Game Rig Tools](https://github.com/BlenderBoi/Game_Rig_Tools)
 - [Human Primitive](https://github.com/BlenderBoi/Human_Primitive)
 - [Vertex Group Utils](https://github.com/BlenderBoi/Vertex_Group_Utils)
 - [Pseudo Object Layer](https://github.com/BlenderBoi/Pseudo_Object_Layer)
@@ -28,6 +27,9 @@ I Made Some Blender Addons, Hopefully You Will Find them Useful
 - [Batch Rename Vertex Groups](https://github.com/BlenderBoi/Batch_Rename_Vertex_Groups)
 - [Group Selected Objects to Collection By Types](https://github.com/BlenderBoi/Group_Selected_Objects_To_Collection_By_Types)
 - [Convert Selected Mesh To Bounding Mesh](https://github.com/BlenderBoi/Convert_Selected_Mesh_To_Bounding_Mesh)
+
+## CG Dive
+- [Game Rig Tools](https://github.com/BlenderBoi/Game_Rig_Tools)
 
 ## Theme
 - [Blender Gruvbox Theme](https://github.com/BlenderBoi/Blender_Gruvbox_Theme)
