@@ -3,8 +3,10 @@
 I Made Some Blender Addons, Hopefully You Will Find them Useful
 
 ## Major Addons
-- [Frame Ranger](https://github.com/BlenderBoi/Frame_Ranger)
-- [Bonera](https://github.com/BlenderBoi/Bonera)
+| Product Page | Source Code | Documentation |
+| --- | --- | --- |
+| Frame Ranger | [Documentation](https://frame-ranger.readthedocs.io/en/latest/index.html#) | [Frame Ranger](https://github.com/BlenderBoi/Frame_Ranger) |
+| | [Bonera](https://github.com/BlenderBoi/Bonera)| [Documentation](https://boneradocumentation.readthedocs.io/en/latest/index.html) |
 - [Human Primitive](https://github.com/BlenderBoi/Human_Primitive)
 - [Vertex Group Utils](https://github.com/BlenderBoi/Vertex_Group_Utils)
 - [Pseudo Object Layer](https://github.com/BlenderBoi/Pseudo_Object_Layer)
