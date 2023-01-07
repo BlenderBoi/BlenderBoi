@@ -3,7 +3,7 @@
 I Made Some Blender Addons, Hopefully You Will Find them Useful
 
 ## Major Addons
-
+| Product Page | Source Code | Documentation | 
 | -- | -- | -- |
 | [Blendermarket](https://blendermarket.com/products/frame-ranger) |[Frame Ranger](https://github.com/BlenderBoi/Frame_Ranger)  | [Documentation](https://frame-ranger.readthedocs.io/en/latest/index.html#) |
 | [Blendermarket](https://blendermarket.com/products/bonera) | [Bonera](https://github.com/BlenderBoi/Bonera)| [Documentation](https://boneradocumentation.readthedocs.io/en/latest/index.html) |
