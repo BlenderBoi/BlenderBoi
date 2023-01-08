@@ -29,6 +29,7 @@ I Made Some Blender Addons, Hopefully You Will Find them Useful
 - [Batch Rename Vertex Groups](https://github.com/BlenderBoi/Batch_Rename_Vertex_Groups)
 - [Group Selected Objects to Collection By Types](https://github.com/BlenderBoi/Group_Selected_Objects_To_Collection_By_Types)
 - [Convert Selected Mesh To Bounding Mesh](https://github.com/BlenderBoi/Convert_Selected_Mesh_To_Bounding_Mesh)
+- [Auto Smooth Selected](https://github.com/BlenderBoi/Auto_Smooth_Selected)
 
 ## CG Dive
 
